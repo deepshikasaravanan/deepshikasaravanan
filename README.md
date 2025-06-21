@@ -9,7 +9,7 @@
 
 ### 🧠 Skills & Technologies
 
-**Languages**: Python, R, SQL, Java, C, C++  
+**Languages**: Python, R, SQL, Java
 **Libraries/Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, NLTK, TextBlob, PySpark, Kafka  
 **ML Techniques**: Regression, Classification, Clustering, Time Series, LSTM, CNN, Transformers, GANs, XGBoost  
 **Cloud & DevOps**: Azure, AWS (S3, SageMaker), GCP, Databricks, Docker, Streamlit  
